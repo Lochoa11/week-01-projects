@@ -1,1 +1,27 @@
+#contact-us{
+	background-color: lightblue;
+}
 
+#banner {
+	height: 400px;
+	background: url("../img/milkbg.jpg") no-repeat center #00f;
+	background-size: cover;
+	position: relative;
+	align-content: center;
+}
+
+.jumbotron{
+	top:10%;
+	position: relative;
+	margin:auto;
+	align-content: center;
+	height: 300px;
+	width: 500px;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: white;
+	border-radius: 20px;
+}
+
+.row{
+	padding-bottom: 30px;
+}
